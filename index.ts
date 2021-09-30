@@ -22,6 +22,7 @@ function main(){
     const unaBanda = new Banda("Soda Stereo", [unAlbum]);
     console.log("La banda es :", unaBanda.albums);
     //console.log("Y su album mas conocido es :", unAlbum);
+    console.log("vino otro gato y le puso otro cambio");
 }
 
 main();
